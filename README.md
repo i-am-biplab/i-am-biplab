@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Biplab Tarafder
-- 👀 I’m interested in Cyber Security, Web Development and App Development (Flutter)
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m a B.Tech CSE 4th Year Undergrad
-- 📫 How to reach me biplab.tarafder2001@gmail.com
+- 👀 I’m interested in Backend Development, App Development (Flutter) and a lil bit of Cyber Security
+- 🌱 I’m a B.Tech CSE Graduate
+- 📫 How to reach me --> biplab.tarafder2001@gmail.com
 
 <!---
 i-am-biplab/i-am-biplab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
